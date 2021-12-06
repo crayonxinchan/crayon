@@ -1,2 +1,2 @@
 # crayon
-personal for study
+for personal study
